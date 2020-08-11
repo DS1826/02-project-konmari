@@ -64,8 +64,12 @@ nav ul li {
 
 /* This main section features the primary content of the website */
 
+main {
+    height: 100%;
+}
 
 /* This Content Section highlights Horiseons services */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -119,15 +123,17 @@ nav ul li {
 }
 
 /* This Benefits Aside features the benefits of using Horiseons services*/
+
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 12px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff
 }
 
 .benefits h3 {
@@ -143,20 +149,19 @@ nav ul li {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
 /* This Footer credits the website development team and the websites copywrite */
+
 .footer {
     padding: 30px;
     clear: both;

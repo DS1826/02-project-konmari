@@ -4,7 +4,7 @@
 This code refactoring project for Horiseon's website creates a cleaner codebase that both follows accessibility standards and enables the website to be optimized for search engines.
 
 ## Screenshot
-<img href="assets/images/screenshot.png" alt="Screenshot>
+! [Screenshot] (images/screenshot.png)
 
 ## Technologies
 This project is created with: 

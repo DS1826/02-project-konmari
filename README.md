@@ -1,8 +1,23 @@
-# 02-project-konmari
-Code Refactoring Project
-Taking inspiration from Marie Kondo's the KonMari Method™
+# Project Konmari
 
-Updates are as follows:
+## General Information
+This code refactoring project for Horiseon's website creates a cleaner codebase that both follows accessibility standards and enables the website to be optimized for search engines.
+
+## Technologies
+This project is created with: 
+* HTML
+* CSS
+
+## Launch
+This website is accessible via most web browsers and can be accessed at the following link: https://ds1826.github.io/02-project-konmari/
+
+## Inspiration
+This project takes inspiration from Marie Kondo's the KonMari Method™ and the GW Coding Bootcamp's HTML and CSS Bootcamp sessions.
+
+## Contact
+Created by @DS1826
+
+## Developer Modification Notes 
 
 <ul>
 <li>Added alt text to all img tags for accessibility.</li>

@@ -17,8 +17,9 @@ This project can be accessed via the following link: https://ds1826.github.io/02
 ## Acknowledgments
 This project takes inspiration from Marie Kondo's the KonMari Method™, the GW Coding Bootcamp's HTML and CSS Bootcamp sessions, as well as the following resources:
 
-* [Simple README.md example] (https://github.com/matiassingers/awesome-readme)
-* [CSS Redundancy Checker] (http://students.washington.edu/svenhans/css-redundancy/index.html)
+* [Simple README.md example](https://github.com/matiassingers/awesome-readme)
+* [CSS Redundancy Checker](http://students.washington.edu/svenhans/css-redundancy/index.html)
+* [Organizing Your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
 
 ## Contact
 Created by @DS1826

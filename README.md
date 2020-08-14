@@ -20,6 +20,7 @@ This project takes inspiration from Marie Kondo's the KonMari Method™, the GW 
 * [Simple README.md example](https://github.com/matiassingers/awesome-readme)
 * [CSS Redundancy Checker](http://students.washington.edu/svenhans/css-redundancy/index.html)
 * [Organizing Your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
+* [CSS Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
 
 ## Contact
 Created by @DS1826
